@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puzzle</string>
+
+    
+    <string name="msg_title_completed">Age of Learning</string>
+    <string name="msg_completed">Completed!!!</string>
+
+</resources>
